@@ -1,0 +1,8 @@
+bot,purpose,homepage
+dependabot[bot],Automatise la gestion des mises à jour des dépendances.,
+galaxyproject-sentryintegration[bot],,
+github-merge-queue[bot],Automatise la gestion des pull requests en attente.,
+hackmd-hub[bot],,
+renovate[bot],Analyse et met à jour automatiquement les dépendances des projets GitHub.,
+review-notebook-app[bot],Automatise la revue et le suivi des notebooks Jupyter.,
+transifex-integration[bot],Gère l’intégration de Transifex pour les traductions automatiques dans les projets open source.,

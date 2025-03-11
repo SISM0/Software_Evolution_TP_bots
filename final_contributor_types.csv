@@ -1,0 +1,41 @@
+contributor,bothunter_type,user_type,bimbas_type,confidence,bothunter_type_mapped,bimbas_type_mapped,acc_type,manual
+DanRyanIrish,Human,False,Human,0.801,0,0,Human,
+JeffBezanson,Human,False,Human,0.904,0,0,Human,
+PeteHaitch,Human,False,Bot,0.829,0,1,Unknown,Mixture of automated and manual-looking events. Needs deeper check.
+Sumit112192,Human,False,Human,0.796,0,0,Human,
+adrhill,Human,False,Human,0.833,0,0,Human,
+ararslan,Human,False,Human,0.845,0,0,Human,
+betatim,Human,False,Human,0.955,0,0,Human,
+cdeil,Human,False,Human,0.877,0,0,Human,
+coveralls,Bot,False,Bot,0.91,1,1,Bot,
+davidanthoff,Human,False,Human,0.874,0,0,Human,
+dependabot[bot],Bot,True,Bot,0.834,1,1,Bot,
+editorialbot,Human,False,Bot,0.471,0,1,Unknown,Mixture of automated and manual-looking events. Needs deeper check.
+eric-wieser,Human,False,Bot,0.717,0,1,Unknown,Mixture of automated and manual-looking events. Needs deeper check.
+galaxyproject-sentryintegration[bot],Bot,True,Bot,0.526,1,1,Bot,
+github-merge-queue[bot],Bot,True,Bot,0.794,1,1,Bot,
+glemaitre,Human,False,Human,0.699,0,0,Human,
+hackmd-hub[bot],Bot,True,Bot,0.751,1,1,Bot,
+ilan-gold,Human,False,Human,0.642,0,0,Human,
+imagesc-bot,Bot,False,Human,0.145,1,0,Unknown,Mixture of automated and manual-looking events. Needs deeper check.
+jeromekelleher,Human,False,Human,0.91,0,0,Human,
+jtpio,Human,False,Human,0.86,0,0,Human,
+krassowski,Human,False,Human,0.949,0,0,Human,
+luxedo,Human,False,Human,0.841,0,0,Human,
+mbarzegary,Human,False,Bot,0.832,0,1,Unknown,Mixture of automated and manual-looking events. Needs deeper check.
+meeseeksmachine,Bot,False,Bot,0.791,1,1,Bot,
+mrazomej,Human,False,Bot,0.74,0,1,Unknown,Mixture of automated and manual-looking events. Needs deeper check.
+nanosoldier,Human,False,Bot,0.896,0,1,Unknown,Mixture of automated and manual-looking events. Needs deeper check.
+nsajko,Human,False,Human,0.808,0,0,Human,
+pangeo-bot,Bot,False,Bot,0.372,1,1,Bot,
+peterjc,Human,False,Human,0.944,0,0,Human,
+petscbot,Bot,False,Bot,0.791,1,1,Bot,
+renovate[bot],Bot,True,Bot,0.166,1,1,Bot,
+reshamas,Human,False,Human,0.918,0,0,Human,
+review-notebook-app[bot],Bot,True,Bot,0.92,1,1,Bot,
+ropensci-review-bot,Human,False,Bot,0.842,0,1,Unknown,Mixture of automated and manual-looking events. Needs deeper check.
+seanm,Human,False,Human,0.813,0,0,Human,
+taladjidi,Human,False,Bot,0.837,0,1,Bot,No activity found. Likely inactive or a bot.
+transifex-integration[bot],Bot,True,Bot,0.535,1,1,Bot,
+vandalt,Human,False,Human,0.797,0,0,Human,
+yvanlebras,Human,False,Human,0.775,0,0,Human,
